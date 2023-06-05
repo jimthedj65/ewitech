@@ -6,5 +6,5 @@ Coming Soon is a simplistic, animated and responsive "coming soon" page.
 - Multi-Browser Support (Up to Date Major Browsers)
 - Responsive Design
 
-[Demo](http://yc.github.io/coming-soon/)
-<img src="index.svg" width="960" height="540" />
+[Demo](http://ewitech.co.uk)
+<img src="ewitech.jpg" width="960" height="540" />
