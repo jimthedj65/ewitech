@@ -7,4 +7,4 @@ Coming Soon is a simplistic, animated and responsive "coming soon" page.
 - Responsive Design
 
 [Demo](http://ewitech.co.uk)
-<img src="ewitech.jpg" width="960" height="540" />
+<img src="EWI-Technologies-Ltd.jpg" width="960" height="540" />
